@@ -1,0 +1,6 @@
+/target
+/src/bin/*.crt
+/src/bin/*.key
+/boringssl
+*.txt
+*.lock
